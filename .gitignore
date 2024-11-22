@@ -1,14 +1,1 @@
-# Exclude Maven target directory
-target/
 
-# Exclude log files
-*.log
-
-# Exclude compiled Java class files
-*.class
-
-# Exclude JAR files
-*.jar
-
-# Exclude IntelliJ IDEA project files
-.idea/
